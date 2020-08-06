@@ -1,3 +1,2 @@
 # sstestrepo
-# adding a new line to demonstrate zoom github integration
-# adding another new line
+# replacing old lines with new ones
